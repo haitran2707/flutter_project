@@ -147,15 +147,15 @@ class _MyHomePageState extends State<MyHomePage> {
           children: [
             buildMember(
               name: "Huỳnh",
-              role: "Frontend Dev",
+              role: "Trưởng nhóm",
               image: "https://i.pravatar.cc/150?img=1",
-              email: "huynh@gmail.com",
+              email: "20221540@eaut.edu.vn",
             ),
             buildMember(
               name: "Hải",
-              role: "Backend Dev",
+              role: "Thành viên nhóm",
               image: "https://i.pravatar.cc/150?img=2",
-              email: "hai@gmail.com",
+              email: "20221607@eaut.edu.vn",
             ),
           ],
         ),
